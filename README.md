@@ -1,1 +1,1 @@
-# slurm2
+#Python (coursehunter)
